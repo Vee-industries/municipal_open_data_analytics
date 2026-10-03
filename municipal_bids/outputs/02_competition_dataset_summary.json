@@ -1,0 +1,9 @@
+{
+  "rows": 1602,
+  "noncompetitive_rate": 0.601123595505618,
+  "competitive_count": 639,
+  "noncompetitive_count": 963,
+  "prior_count_zero_rate": 0.5474406991260924,
+  "prior_count_median": 0.0,
+  "excluded_ambiguous_rows": 0
+}

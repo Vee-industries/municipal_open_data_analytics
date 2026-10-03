@@ -1,0 +1,21 @@
+{
+  "results": [
+    {
+      "model": "LogisticRegression",
+      "auc_delta_median": 0.03444308032869803,
+      "auc_delta_ci_low": 0.015680497563074058,
+      "auc_delta_ci_high": 0.05333711647332365,
+      "pct_positive": 1.0,
+      "n_bootstraps": 500
+    },
+    {
+      "model": "HistGradientBoostingClassifier",
+      "auc_delta_median": 0.061975007267359494,
+      "auc_delta_ci_low": 0.03624863593764262,
+      "auc_delta_ci_high": 0.09044371717091228,
+      "pct_positive": 1.0,
+      "n_bootstraps": 500
+    }
+  ],
+  "n_bootstraps": 500
+}

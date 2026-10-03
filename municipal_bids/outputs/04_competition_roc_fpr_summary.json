@@ -1,0 +1,65 @@
+{
+  "threshold_results": [
+    {
+      "model": "LogisticRegression",
+      "target_fpr": 0.05,
+      "myopic_threshold": 0.8302408045893208,
+      "myopic_tpr": 0.2910662824207493,
+      "myopic_fpr": 0.04477611940298507,
+      "stateful_threshold": 0.8704272321023676,
+      "stateful_tpr": 0.1642651296829971,
+      "stateful_fpr": 0.04477611940298507
+    },
+    {
+      "model": "LogisticRegression",
+      "target_fpr": 0.1,
+      "myopic_threshold": 0.7815225976427386,
+      "myopic_tpr": 0.30547550432276654,
+      "myopic_fpr": 0.09701492537313433,
+      "stateful_threshold": 0.7797846068027945,
+      "stateful_tpr": 0.414985590778098,
+      "stateful_fpr": 0.09701492537313433
+    },
+    {
+      "model": "LogisticRegression",
+      "target_fpr": 0.2,
+      "myopic_threshold": 0.6278721869927975,
+      "myopic_tpr": 0.515850144092219,
+      "myopic_fpr": 0.19402985074626866,
+      "stateful_threshold": 0.5705679167704868,
+      "stateful_tpr": 0.792507204610951,
+      "stateful_fpr": 0.19402985074626866
+    },
+    {
+      "model": "HistGradientBoostingClassifier",
+      "target_fpr": 0.05,
+      "myopic_threshold": 0.9995885168646547,
+      "myopic_tpr": 0.10086455331412104,
+      "myopic_fpr": 0.03731343283582089,
+      "stateful_threshold": 0.9989856877365847,
+      "stateful_tpr": 0.2276657060518732,
+      "stateful_fpr": 0.04477611940298507
+    },
+    {
+      "model": "HistGradientBoostingClassifier",
+      "target_fpr": 0.1,
+      "myopic_threshold": 0.9886663665765821,
+      "myopic_tpr": 0.4207492795389049,
+      "myopic_fpr": 0.09701492537313433,
+      "stateful_threshold": 0.9841356684890034,
+      "stateful_tpr": 0.4697406340057637,
+      "stateful_fpr": 0.09701492537313433
+    },
+    {
+      "model": "HistGradientBoostingClassifier",
+      "target_fpr": 0.2,
+      "myopic_threshold": 0.8718933998518377,
+      "myopic_tpr": 0.6282420749279539,
+      "myopic_fpr": 0.19402985074626866,
+      "stateful_threshold": 0.6169958247210938,
+      "stateful_tpr": 0.7896253602305475,
+      "stateful_fpr": 0.19402985074626866
+    }
+  ],
+  "roc_figures_saved": true
+}

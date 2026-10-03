@@ -1,0 +1,6 @@
+{
+  "total_vendor_agency_pairs": 1060,
+  "repeat_pairs_with_2plus_awards": 230,
+  "top_25_printed": true,
+  "risk_score_definition": "non_competitive_rate * log1p(total_awards) * log1p(total_original_amount)"
+}

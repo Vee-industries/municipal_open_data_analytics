@@ -1,0 +1,17 @@
+# Named-employee data (City of Vancouver remuneration disclosure): not republished
+municipal_coordination/data/raw/
+municipal_coordination/data/processed/engineering_2025_deduped.csv
+municipal_coordination/data/processed/engineering_titles_raw.csv
+municipal_coordination/outputs/engineering_hierarchy_2025.csv
+
+# Large NYC downloads not used by the scripts
+municipal_bids/data/raw/Bid_Tabulations.csv
+municipal_bids/data/raw/Current_Solicitations.csv
+municipal_bids/data/raw/Recent_Contract_Awards.csv
+
+# Build artifacts
+*.zip
+__pycache__/
+
+# Ranks named companies; not published
+municipal_bids/outputs/vendor_agency_risk_leaderboard.csv

@@ -1,0 +1,44 @@
+feature,importance_mean,importance_std
+industry_Construction Services,0.10219400117567773,0.011726132569131615
+log_original_amount,0.051369951395758916,0.012944852934627661
+prior_noncompetitive_rate,0.04516108219708368,0.008926292818077709
+industry_Human Services,0.0432796392676387,0.006911771424242261
+prior_count,0.009840566619352746,0.002735400512835405
+prior_max_agency_share,0.0076515835806557405,0.004521911193943341
+agency_Department of Social Services,0.007325404676903609,0.004336086450048322
+agency_Department of Education,0.003530617804349967,0.0011613745672214037
+agency_OTHER_AGENCY,0.0020606621073307203,0.0018493240960821018
+agency_Department of Design and Construction,0.0020517011484364467,0.0006971016924375281
+agency_Law Department,0.002011914490945821,0.0026551317514150485
+industry_Standardized Services,0.001589315669491135,0.0005622530361394112
+agency_Department of Citywide Administrative Services,0.0011889400260942725,0.0014445599827553528
+industry_Professional Services,0.0008839089853326598,0.0010035380386209205
+agency_Administration for Children's Services,0.0006430384102541635,0.001047930808491709
+prior_same_agency_count,0.0005283381364072618,0.0016843423759483965
+agency_Department of Homeless Services,0.00019463202718392008,0.0011376282867367777
+agency_Police Department,0.0,0.0
+agency_Health and Hospitals Corporation,0.0,0.0
+agency_OFFICE OF CRIMINAL JUSTICE,0.0,0.0
+agency_Mayoralty,0.0,0.0
+agency_Housing Preservation and Development,0.0,0.0
+agency_Department of Youth and Community Development,0.0,0.0
+agency_Fire Department,0.0,0.0
+agency_City University Construction Fund,0.0,0.0
+agency_Department of Small Business Services,0.0,0.0
+agency_Department of Sanitation,0.0,0.0
+agency_Department of Parks and Recreation,0.0,0.0
+agency_Department of Information Technology and Telecommunications,0.0,0.0
+woman_owned_flag,0.0,0.0
+agency_Department of Finance,0.0,0.0
+emerging_business_flag,0.0,0.0
+agency_Department for the Aging,0.0,0.0
+agency_City University of New York,0.0,0.0
+agency_Department of Health and Mental Hygiene,-0.00018136980802046325,0.0015425174649446307
+agency_Department of Environmental Protection,-0.0004971539994552391,0.002504794338552774
+agency_Department of Transportation,-0.0007935825196783079,0.001973509115909301
+industry_Not Classified,-0.0010434140536510705,0.0010406156886617847
+industry_Goods,-0.0011921659712962958,0.004182106362274055
+prior_log_total_original,-0.002269990107101431,0.0036951424004272723
+prior_unique_agencies,-0.002845283668114806,0.0011806306527883015
+prior_same_agency_noncomp_rate,-0.003793353119130601,0.0012262982898841445
+vendor_mwbe_flag,-0.008076333032245179,0.003552697271468024
